@@ -31,6 +31,7 @@ header {
 .menu-content {
     text-transform: uppercase;
     height: 100%;
+    width: 98vw;
     display: block;
     text-align: center;
     justify-content: center;
