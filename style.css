@@ -19,6 +19,7 @@ body {
     background-size: cover;
     background-position-y: 0px;
     background-repeat: no-repeat;
+    height: 100vh;
 }
 
 header {
@@ -107,6 +108,7 @@ main {
 
 .btn {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     gap: 20px;
 }
